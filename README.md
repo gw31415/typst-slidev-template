@@ -45,7 +45,7 @@ typst compile hello-rust-world.typ
 `slidev` ディレクトリで以下のコマンドを実行してください。
 
 ```sh
-bun export
+pnpm export
 
 ```
 
@@ -54,5 +54,5 @@ bun export
 `slidev` ディレクトリで以下のコマンドを実行してください。
 
 ```sh
-bun dev
+pnpm dev
 ```
